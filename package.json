@@ -17,5 +17,16 @@
         "path": "./themes/Extensión Theme SunsedDay-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/beach.png",
+  "author": {
+    "name": "El Algoritmo De La Noche",
+    "email": "elalgoritmodelanoche@gmail.com",
+    "url":"https:www.elalgoritmodelanoche.com"
+  },
+  "repository":{
+    "url": "https://github.com/ElAlgoritmoDeLaNoche/SunsetDay.git",
+    "type": "git"
+  },
+  "publisher": "el-algoritmo-de-la-oche"
 }
